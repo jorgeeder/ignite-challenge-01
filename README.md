@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## About The project
+## About The Project
 
 A task management application developed during the first Ignite challenge, Rocketseat bootcamp, through the application you are able to:
 
